@@ -1,0 +1,151 @@
+order_id,order_date,customer_id,product,category,region,city,sales_channel,quantity,unit_price,unit_cost
+ORD-0001,2025-10-09,CUST-016,Phone,Electronics,North,Delhi,Online,1,22000,16500
+ORD-0002,2026-03-09,CUST-003,Phone,Electronics,Central,Bhopal,Online,2,22000,16500
+ORD-0003,2026-09-09,CUST-002,Office Chair,Furniture,Central,Bhopal,Partner,5,8500,5700
+ORD-0004,2026-04-05,CUST-038,Monitor,Electronics,South,Chennai,Online,2,14500,10500
+ORD-0005,2025-10-12,CUST-010,Monitor,Electronics,East,Kolkata,Retail,1,14500,10500
+ORD-0006,2025-04-10,CUST-023,Phone,Electronics,West,Pune,Partner,3,22000,16500
+ORD-0007,2026-07-04,CUST-008,Laptop,Electronics,West,Pune,Online,5,52000,41000
+ORD-0008,2026-01-06,CUST-037,Desk,Furniture,Central,Bhopal,Partner,1,12000,8200
+ORD-0009,2025-10-24,CUST-006,Laptop,Electronics,South,Bengaluru,Online,4,52000,41000
+ORD-0010,2026-10-13,CUST-054,Desk,Furniture,West,Pune,Online,3,12000,8200
+ORD-0011,2025-10-01,CUST-045,Keyboard,Accessories,South,Bengaluru,Partner,2,1600,800
+ORD-0012,2026-04-19,CUST-025,Office Chair,Furniture,South,Chennai,Partner,5,8500,5700
+ORD-0013,2025-02-27,CUST-015,Office Chair,Furniture,East,Kolkata,Retail,4,8500,5700
+ORD-0014,2025-08-05,CUST-037,Desk,Furniture,North,Jaipur,Online,4,12000,8200
+ORD-0015,2025-05-27,CUST-017,Monitor,Electronics,West,Mumbai,Online,5,14500,10500
+ORD-0016,2026-03-15,CUST-038,Desk,Furniture,Central,Indore,Retail,2,12000,8200
+ORD-0017,2026-05-21,CUST-006,Headphones,Accessories,Central,Bhopal,Online,2,2800,1450
+ORD-0018,2026-09-03,CUST-005,Headphones,Accessories,West,Pune,Retail,5,2800,1450
+ORD-0019,2025-09-15,CUST-036,Mouse,Accessories,Central,Bhopal,Partner,1,750,300
+ORD-0020,2025-04-25,CUST-019,Desk,Furniture,East,Patna,Online,4,12000,8200
+ORD-0021,2026-05-28,CUST-049,Laptop,Electronics,East,Kolkata,Partner,1,52000,41000
+ORD-0022,2026-09-16,CUST-013,Desk,Furniture,Central,Bhopal,Retail,2,12000,8200
+ORD-0023,2025-11-28,CUST-032,Laptop,Electronics,Central,Bhopal,Online,3,52000,41000
+ORD-0024,2025-03-01,CUST-016,Desk,Furniture,South,Bengaluru,Online,4,12000,8200
+ORD-0025,2025-05-09,CUST-009,Phone,Electronics,Central,Indore,Partner,2,22000,16500
+ORD-0026,2026-09-14,CUST-028,Desk,Furniture,Central,Bhopal,Partner,2,12000,8200
+ORD-0027,2026-01-18,CUST-029,Desk,Furniture,West,Pune,Online,2,12000,8200
+ORD-0028,2025-12-13,CUST-002,Office Chair,Furniture,North,Delhi,Partner,2,8500,5700
+ORD-0029,2026-10-09,CUST-004,Laptop,Electronics,North,Delhi,Online,1,52000,41000
+ORD-0030,2026-06-11,CUST-016,Keyboard,Accessories,North,Jaipur,Partner,4,1600,800
+ORD-0031,2025-05-16,CUST-047,Office Chair,Furniture,Central,Indore,Online,4,8500,5700
+ORD-0032,2025-04-07,CUST-007,Monitor,Electronics,South,Chennai,Retail,4,14500,10500
+ORD-0033,2025-02-25,CUST-044,Monitor,Electronics,West,Mumbai,Online,4,14500,10500
+ORD-0034,2025-09-12,CUST-013,Keyboard,Accessories,North,Delhi,Partner,4,1600,800
+ORD-0035,2025-07-07,CUST-018,Headphones,Accessories,West,Pune,Online,1,2800,1450
+ORD-0036,2025-04-11,CUST-004,Mouse,Accessories,Central,Bhopal,Online,2,750,300
+ORD-0037,2026-05-13,CUST-031,Headphones,Accessories,West,Mumbai,Retail,1,2800,1450
+ORD-0038,2025-01-03,CUST-025,Headphones,Accessories,West,Pune,Retail,3,2800,1450
+ORD-0039,2026-05-14,CUST-010,Monitor,Electronics,Central,Bhopal,Retail,2,14500,10500
+ORD-0040,2026-07-10,CUST-004,Laptop,Electronics,Central,Indore,Online,1,52000,41000
+ORD-0041,2026-06-28,CUST-011,Mouse,Accessories,Central,Bhopal,Partner,1,750,300
+ORD-0042,2026-09-02,CUST-005,Headphones,Accessories,North,Delhi,Retail,1,2800,1450
+ORD-0043,2026-09-01,CUST-003,Office Chair,Furniture,Central,Bhopal,Retail,5,8500,5700
+ORD-0044,2025-07-29,CUST-043,Keyboard,Accessories,East,Patna,Online,3,1600,800
+ORD-0045,2025-11-04,CUST-030,Monitor,Electronics,South,Chennai,Online,1,14500,10500
+ORD-0046,2026-07-31,CUST-007,Mouse,Accessories,Central,Bhopal,Partner,2,750,300
+ORD-0047,2025-12-24,CUST-005,Desk,Furniture,South,Bengaluru,Retail,3,12000,8200
+ORD-0048,2026-07-11,CUST-046,Headphones,Accessories,West,Pune,Partner,5,2800,1450
+ORD-0049,2025-11-03,CUST-043,Laptop,Electronics,Central,Bhopal,Online,3,52000,41000
+ORD-0050,2026-07-21,CUST-010,Phone,Electronics,North,Jaipur,Retail,5,22000,16500
+ORD-0051,2025-07-28,CUST-044,Office Chair,Furniture,East,Patna,Partner,4,8500,5700
+ORD-0052,2025-04-05,CUST-041,Desk,Furniture,North,Jaipur,Retail,1,12000,8200
+ORD-0053,2025-05-14,CUST-041,Laptop,Electronics,East,Patna,Online,4,52000,41000
+ORD-0054,2025-01-10,CUST-008,Monitor,Electronics,Central,Bhopal,Partner,2,14500,10500
+ORD-0055,2026-08-20,CUST-036,Laptop,Electronics,East,Kolkata,Retail,2,52000,41000
+ORD-0056,2026-01-09,CUST-051,Laptop,Electronics,East,Kolkata,Retail,2,52000,41000
+ORD-0057,2025-12-29,CUST-050,Office Chair,Furniture,North,Jaipur,Partner,2,8500,5700
+ORD-0058,2025-07-01,CUST-027,Office Chair,Furniture,South,Bengaluru,Online,3,8500,5700
+ORD-0059,2025-10-01,CUST-011,Monitor,Electronics,South,Bengaluru,Retail,1,14500,10500
+ORD-0060,2025-07-24,CUST-053,Mouse,Accessories,South,Chennai,Retail,3,750,300
+ORD-0061,2025-01-25,CUST-043,Office Chair,Furniture,South,Bengaluru,Retail,3,8500,5700
+ORD-0062,2025-10-13,CUST-023,Desk,Furniture,North,Jaipur,Partner,5,12000,8200
+ORD-0063,2025-04-29,CUST-017,Keyboard,Accessories,North,Delhi,Partner,3,1600,800
+ORD-0064,2026-09-03,CUST-028,Laptop,Electronics,North,Jaipur,Partner,3,52000,41000
+ORD-0065,2026-06-08,CUST-008,Monitor,Electronics,Central,Indore,Partner,2,14500,10500
+ORD-0066,2026-03-23,CUST-001,Desk,Furniture,North,Delhi,Retail,4,12000,8200
+ORD-0067,2026-10-01,CUST-021,Phone,Electronics,East,Kolkata,Partner,3,22000,16500
+ORD-0068,2025-12-01,CUST-026,Desk,Furniture,West,Pune,Partner,2,12000,8200
+ORD-0069,2026-01-24,CUST-044,Office Chair,Furniture,West,Mumbai,Partner,5,8500,5700
+ORD-0070,2026-07-16,CUST-054,Desk,Furniture,West,Mumbai,Retail,3,12000,8200
+ORD-0071,2026-08-17,CUST-039,Office Chair,Furniture,West,Pune,Retail,4,8500,5700
+ORD-0072,2026-06-08,CUST-031,Mouse,Accessories,South,Bengaluru,Partner,1,750,300
+ORD-0073,2026-10-11,CUST-040,Desk,Furniture,Central,Indore,Online,2,12000,8200
+ORD-0074,2025-07-23,CUST-010,Desk,Furniture,South,Bengaluru,Online,2,12000,8200
+ORD-0075,2025-03-16,CUST-030,Mouse,Accessories,Central,Indore,Partner,5,750,300
+ORD-0076,2026-05-22,CUST-026,Office Chair,Furniture,West,Mumbai,Online,1,8500,5700
+ORD-0077,2025-08-13,CUST-012,Phone,Electronics,West,Pune,Online,5,22000,16500
+ORD-0078,2026-04-13,CUST-009,Office Chair,Furniture,North,Jaipur,Partner,5,8500,5700
+ORD-0079,2026-09-20,CUST-053,Keyboard,Accessories,West,Pune,Partner,4,1600,800
+ORD-0080,2026-04-06,CUST-017,Headphones,Accessories,West,Mumbai,Partner,3,2800,1450
+ORD-0081,2025-10-09,CUST-029,Mouse,Accessories,South,Bengaluru,Partner,3,750,300
+ORD-0082,2025-12-10,CUST-021,Office Chair,Furniture,East,Kolkata,Online,2,8500,5700
+ORD-0083,2025-06-06,CUST-046,Office Chair,Furniture,West,Mumbai,Online,4,8500,5700
+ORD-0084,2026-07-10,CUST-030,Monitor,Electronics,East,Patna,Online,2,14500,10500
+ORD-0085,2026-08-22,CUST-045,Monitor,Electronics,West,Mumbai,Partner,4,14500,10500
+ORD-0086,2025-12-27,CUST-020,Mouse,Accessories,North,Jaipur,Retail,5,750,300
+ORD-0087,2025-08-13,CUST-018,Office Chair,Furniture,West,Pune,Retail,1,8500,5700
+ORD-0088,2026-02-19,CUST-047,Monitor,Electronics,East,Kolkata,Retail,2,14500,10500
+ORD-0089,2026-08-30,CUST-037,Laptop,Electronics,West,Mumbai,Online,4,52000,41000
+ORD-0090,2025-07-06,CUST-004,Headphones,Accessories,West,Pune,Retail,3,2800,1450
+ORD-0091,2025-12-01,CUST-022,Office Chair,Furniture,West,Pune,Retail,4,8500,5700
+ORD-0092,2026-04-27,CUST-002,Desk,Furniture,North,Delhi,Retail,2,12000,8200
+ORD-0093,2025-02-01,CUST-016,Phone,Electronics,North,Delhi,Online,5,22000,16500
+ORD-0094,2025-05-10,CUST-031,Headphones,Accessories,South,Bengaluru,Partner,2,2800,1450
+ORD-0095,2026-01-13,CUST-011,Mouse,Accessories,East,Kolkata,Online,3,750,300
+ORD-0096,2025-01-27,CUST-020,Phone,Electronics,Central,Indore,Retail,2,22000,16500
+ORD-0097,2026-10-05,CUST-016,Phone,Electronics,Central,Bhopal,Partner,3,22000,16500
+ORD-0098,2025-02-12,CUST-023,Phone,Electronics,Central,Indore,Partner,3,22000,16500
+ORD-0099,2025-12-16,CUST-001,Phone,Electronics,Central,Indore,Retail,1,22000,16500
+ORD-0100,2026-10-13,CUST-054,Monitor,Electronics,East,Patna,Partner,2,14500,10500
+ORD-0101,2026-06-19,CUST-042,Monitor,Electronics,South,Chennai,Partner,5,14500,10500
+ORD-0102,2026-03-23,CUST-053,Mouse,Accessories,West,Pune,Retail,2,750,300
+ORD-0103,2026-04-07,CUST-016,Phone,Electronics,East,Patna,Partner,5,22000,16500
+ORD-0104,2025-01-30,CUST-032,Monitor,Electronics,East,Patna,Online,4,14500,10500
+ORD-0105,2025-09-22,CUST-022,Office Chair,Furniture,East,Patna,Partner,3,8500,5700
+ORD-0106,2025-07-15,CUST-006,Laptop,Electronics,Central,Bhopal,Partner,4,52000,41000
+ORD-0107,2025-09-04,CUST-045,Mouse,Accessories,Central,Indore,Partner,4,750,300
+ORD-0108,2025-04-06,CUST-019,Mouse,Accessories,North,Delhi,Retail,2,750,300
+ORD-0109,2026-01-13,CUST-031,Desk,Furniture,Central,Indore,Retail,5,12000,8200
+ORD-0110,2026-04-10,CUST-018,Keyboard,Accessories,East,Patna,Retail,2,1600,800
+ORD-0111,2025-11-20,CUST-008,Phone,Electronics,South,Bengaluru,Online,2,22000,16500
+ORD-0112,2026-08-27,CUST-049,Mouse,Accessories,East,Patna,Online,2,750,300
+ORD-0113,2026-01-05,CUST-012,Desk,Furniture,South,Chennai,Online,5,12000,8200
+ORD-0114,2025-02-16,CUST-004,Headphones,Accessories,East,Patna,Partner,2,2800,1450
+ORD-0115,2025-01-13,CUST-037,Mouse,Accessories,North,Jaipur,Retail,4,750,300
+ORD-0116,2025-07-08,CUST-004,Mouse,Accessories,East,Patna,Retail,1,750,300
+ORD-0117,2026-05-19,CUST-005,Phone,Electronics,West,Mumbai,Online,2,22000,16500
+ORD-0118,2025-09-12,CUST-008,Desk,Furniture,North,Jaipur,Partner,5,12000,8200
+ORD-0119,2026-01-25,CUST-029,Office Chair,Furniture,Central,Indore,Retail,5,8500,5700
+ORD-0120,2026-08-06,CUST-040,Monitor,Electronics,East,Kolkata,Partner,1,14500,10500
+ORD-0121,2025-09-28,CUST-043,Office Chair,Furniture,South,Bengaluru,Online,2,8500,5700
+ORD-0122,2025-03-18,CUST-011,Headphones,Accessories,Central,Bhopal,Retail,4,2800,1450
+ORD-0123,2025-02-03,CUST-015,Mouse,Accessories,East,Patna,Partner,3,750,300
+ORD-0124,2025-08-28,CUST-017,Mouse,Accessories,North,Delhi,Retail,1,750,300
+ORD-0125,2025-09-30,CUST-053,Office Chair,Furniture,South,Bengaluru,Online,1,8500,5700
+ORD-0126,2026-09-02,CUST-048,Headphones,Accessories,East,Patna,Retail,1,2800,1450
+ORD-0127,2026-02-17,CUST-018,Mouse,Accessories,East,Patna,Retail,1,750,300
+ORD-0128,2025-11-27,CUST-039,Laptop,Electronics,West,Pune,Online,1,52000,41000
+ORD-0129,2026-08-25,CUST-002,Office Chair,Furniture,Central,Indore,Partner,1,8500,5700
+ORD-0130,2026-06-16,CUST-042,Headphones,Accessories,West,Pune,Retail,2,2800,1450
+ORD-0131,2025-04-04,CUST-031,Monitor,Electronics,West,Pune,Retail,3,14500,10500
+ORD-0132,2025-06-14,CUST-022,Keyboard,Accessories,North,Jaipur,Partner,4,1600,800
+ORD-0133,2026-07-18,CUST-003,Desk,Furniture,West,Pune,Online,3,12000,8200
+ORD-0134,2025-04-29,CUST-050,Desk,Furniture,East,Patna,Partner,1,12000,8200
+ORD-0135,2025-02-25,CUST-013,Mouse,Accessories,West,Pune,Partner,4,750,300
+ORD-0136,2025-07-28,CUST-018,Mouse,Accessories,North,Delhi,Retail,4,750,300
+ORD-0137,2025-01-30,CUST-041,Mouse,Accessories,North,Delhi,Partner,2,750,300
+ORD-0138,2025-01-15,CUST-036,Desk,Furniture,Central,Indore,Online,2,12000,8200
+ORD-0139,2025-05-01,CUST-042,Phone,Electronics,West,Mumbai,Retail,3,22000,16500
+ORD-0140,2026-05-10,CUST-031,Desk,Furniture,West,Mumbai,Retail,5,12000,8200
+ORD-0141,2025-07-15,CUST-039,Headphones,Accessories,West,Mumbai,Online,3,2800,1450
+ORD-0142,2026-06-04,CUST-018,Monitor,Electronics,East,Kolkata,Retail,3,14500,10500
+ORD-0143,2026-04-03,CUST-035,Mouse,Accessories,South,Chennai,Retail,3,750,300
+ORD-0144,2025-11-26,CUST-013,Monitor,Electronics,West,Mumbai,Partner,4,14500,10500
+ORD-0145,2025-02-14,CUST-021,Office Chair,Furniture,West,Pune,Partner,4,8500,5700
+ORD-0146,2026-05-23,CUST-003,Monitor,Electronics,South,Bengaluru,Partner,5,14500,10500
+ORD-0147,2026-03-27,CUST-007,Keyboard,Accessories,North,Jaipur,Online,2,1600,800
+ORD-0148,2025-03-18,CUST-031,Monitor,Electronics,South,Chennai,Retail,5,14500,10500
+ORD-0149,2025-12-03,CUST-055,Monitor,Electronics,North,Jaipur,Retail,4,14500,10500
+ORD-0150,2025-03-12,CUST-016,Laptop,Electronics,Central,Indore,Online,1,52000,41000

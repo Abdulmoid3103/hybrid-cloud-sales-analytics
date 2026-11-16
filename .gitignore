@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+.env
+.DS_Store
+Thumbs.db
+clean_sales_data.csv
+sales_quality_report.csv

@@ -1,0 +1,5 @@
+order_id,order_date,customer_id,product,category,region,city,sales_channel,quantity,unit_price,unit_cost
+ORD-0001,2025-10-09,CUST-016,Phone,Electronics,North,Delhi,Online,1,22000,16500
+ORD-0001,2025-10-09,CUST-016,Phone,Electronics,North,Delhi,Online,1,22000,16500
+BAD-1,not-a-date,C-1,Phone,Electronics,West,Pune,Online,two,22000,16500
+BAD-2,2025-03-12,C-2,Desk,Furniture,West,Mumbai,Retail,2,-100,8200
